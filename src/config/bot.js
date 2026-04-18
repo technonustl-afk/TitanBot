@@ -308,7 +308,7 @@ export const botConfig = {
       defaultCriteria: "account_age",
 
       // Days used when `defaultCriteria` is `account_age`.
-      defaultAccountAgeDays: 7,
+      defaultAccountAgeDays: 0,
 
       // Member count threshold used when `defaultCriteria` is `server_size`.
       // Example: 1000 means auto-verify if server has fewer than 1000 members.
